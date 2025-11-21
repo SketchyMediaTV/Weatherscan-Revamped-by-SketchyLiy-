@@ -448,7 +448,7 @@ var mainMap
 					setTimeout(function() {
 						$('.city-slide-intro .weatherscancopyright .copyrighttext').fadeOut(500).promise().done(function(){
 							$('.city-slide-intro .weatherscancopyright .copyrighttext').css('font-size','15px')
-							$('.city-slide-intro .weatherscancopyright .copyrighttext').text(`© ${new Date().getFullYear()} Weather Group Television LLC All Rights Reserved, Custom Emulation created by WeatherTV by SketchyLiy`)
+							$('.city-slide-intro .weatherscancopyright .copyrighttext').text(`© ${new Date().getFullYear()} Weather Group Television LLC All Rights Reserved, Custom Emulation created by WeatherTV by SketchyLiy and Original Emulation by buffbears.`)
 							$('.city-slide-intro .weatherscancopyright .copyrighttext').fadeIn(500);
 						});
 					}, 5000);
@@ -2200,7 +2200,7 @@ var mainMap
 				setTimeout(function() {
 					$('.city-slide-intro .weatherscancopyright .copyrighttext').fadeOut(500).promise().done(function(){
 						$('.city-slide-intro .weatherscancopyright .copyrighttext').css('font-size','15px')
-						$('.city-slide-intro .weatherscancopyright .copyrighttext').text(`© ${new Date().getFullYear()} Weather Group Television LLC All Rights Reserved, Custom Emulation created by WeatherTV by SketchyLiy`)
+						$('.city-slide-intro .weatherscancopyright .copyrighttext').text(`© ${new Date().getFullYear()} Weather Group Television LLC All Rights Reserved, Custom Emulation created by WeatherTV by SketchyLiy and Original Emulation by buffbears.`)
 						$('.city-slide-intro .weatherscancopyright .copyrighttext').fadeIn(500);
 					});
 				}, 5000);
