@@ -14,7 +14,7 @@ function randomKey() {
 randomKey();
 //Apperance settings. Fields left blank will use defaults. Will only refresh upon reload.
 var apperanceSettings = {
-  iconSet:"2005", //2007 or 2010 or 2005
+  iconSet:"2007", //2007 or 2010 or 2005
   serialNumber:"TWCS23821457",// Ex. "TWCS02983932"
   headinID:"", // Ex. "0298393223"
   affilateName:"RockPawsMedia",// Ex. "Comcast"
@@ -22,7 +22,10 @@ var apperanceSettings = {
   corebackgroud:"neighborhood", //Default is buildings for a custom image. forest, mountain, city, buildings, neighborhood, southwest, ocean.
   backgroudType:"custom",//Set to
   backgroudURL:"",//If background type set to "custom" will use this url. URL can be a website or local file path.
-  marqueeAd: ["Welcome, so this is my first time using WeatherTV's weatherscan service!, he gaved me the emulation so i can use it forever!, Credits to him that he made it! - rock_wx"],
+  marqueeAd: ["Welcome, so this is my first time using WeatherTV's weatherscan service!, he gaved me the emulation so i can use it forever!, Credits to him that he made it! - rock_wx", "Remember, This emulation is NOT made completely by WeatherTV, The one who created the original was buffbears."],
+  //marqueeAd: ["You know who else likes Weatherscan? MY MOM! WOOOOOOOOOOOOO","YYYYYYABADABADOOOOOOOOOOO","With Comcast Spotlight, utilize the impact of interactive advertising. Specifically target areas of New Jersey on TV with commercials on networks like ESPN and TNT - and on the internet at XFINITY.com and FoxNews.com. For your custom advertising solution, call 244-2122.", "If a tornado warning is issued will you get the call? Sign up now to recieve a phone call warning when severe weather is headed your way. Visit weather.com/notify to learn more.", "Now Available! Get picture perfect weather with The Weather Channel HD.", "Comcast is now interviewing for Full-time Residential Door to Door Cable Sales Reps. Base pay plus commission and full benefits. Average rep earns $600 to $800 per week. Qualified applicants should apply at www.comcast.com/careers followed by a call to Mr DeBald at 412.747.6191."],
+  copyrightAvoidance: false, //Set to true if you stream or make videos of this emulator and do not want to worry about copyright issues with The Weather Chanel
+  startupTime: 45000, //How long you want to wait for everything to load 29000
 }
 var slideApperanceSettings = {//Ill add more options here eventually.
   localDoppler: {},
