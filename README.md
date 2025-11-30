@@ -4,7 +4,7 @@ Weatherscan simulation in HTML/JS/CSS
 
 Visit https://weatherscan.me/?Del%20Rio for a demo
 or Visit https://v2.weatherscan.net/?Del%20Rio for official demo web
-or Visit https://weatherscanrevampedv2.netlify.app/?Del%20Rio for also my demo web for idk everyone?
+or Visit https://weatherscan-revamped-new.pages.dev/?Del%20Rio for also my demo web for idk everyone?
 My website ain't no available this time, it might come more more sooner.
 
 ## Stay up to date, by heading to Weather Ranch's Server! (Visit the Discord Server):
