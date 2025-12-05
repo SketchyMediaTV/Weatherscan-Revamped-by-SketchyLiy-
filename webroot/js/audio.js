@@ -45,6 +45,8 @@ function WeatherAudio() {
 					arr.push(musicpath + "Trammel Starks 2 Track " + String(audioSettings.order[i]-67) + '.mp3');
 				} else if (audioSettings.order[i] < 84) {
 					arr.push(musicpath + "Trammel Starks 3 Track " + String(audioSettings.order[i]-77) + '.mp3');
+				} else if (audioSettings.order[i] < 92) {
+					arr.push(musicpath + "WeatherTV custom song Track " + String(audioSettings.order[i]-84) + '.mp3');
 				}
 			}
 			 
