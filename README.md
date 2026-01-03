@@ -11,8 +11,6 @@ My website ain't no available this time, it might come more more sooner.
 https://discord.gg/WeatherRanch
 ## Installation Instructions:
 
-yeeeyy
-
 ## Running locally:
 1. Download & Install [node.js LTS](https://nodejs.org/en/)
 2. Get weather.com and mapbox.com API keys.
