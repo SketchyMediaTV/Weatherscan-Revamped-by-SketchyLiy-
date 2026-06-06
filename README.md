@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/jqpN9c26/mistwxscanv2banner.png)
+
 
 ------------
 
