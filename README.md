@@ -7,6 +7,7 @@ REMINDER: I DO NOT OWN THIS EMULATION AT ALL!!!, THE ORIGINAL IS FROM MIST WEATH
 **Weatherscan v2** is a simulated recreation of "Weatherscan" by The Weather Channel in HTML/CSS/JS, by ***mist weather media***
 
 Online demo: [v2.weatherscan.net](https://v2.weatherscan.net)
+Rock's Weatherscan demo: [weatherscanwtvplusrock.netlify.app](https://weatherscanwtvplusrock.netlify.app)
 
 © Mist Weather Media 2026.
 
