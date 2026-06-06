@@ -1,6 +1,8 @@
 
 
 ------------
+REMINDER: I DO NOT OWN THIS EMULATION AT ALL!!!, THE ORIGINAL IS FROM MIST WEATHER MEDIA!!!
+
 
 **Weatherscan v2** is a simulated recreation of "Weatherscan" by The Weather Channel in HTML/CSS/JS, by ***mist weather media***
 
