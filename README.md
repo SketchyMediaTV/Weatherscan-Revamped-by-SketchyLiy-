@@ -9,7 +9,7 @@ REMINDER: I DO NOT OWN THIS EMULATION AT ALL!!!, THE ORIGINAL IS FROM MIST WEATH
 Online demo: [v2.weatherscan.net](https://v2.weatherscan.net)
 Rock's Weatherscan demo: [weatherscanwtvplusrock.netlify.app](https://weatherscanwtvplusrock.netlify.app)
 
-© Mist Weather Media 2026.
+© Mist Weather Media 2026. © WeatherTV+ 2026.
 
 ------------
 
