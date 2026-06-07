@@ -13,7 +13,7 @@ Rock's Weatherscan demo: [weatherscanwtvplusrock.netlify.app](https://weathersca
 
 ------------
 
-**Special thanks to these talented minds who made this project possible!**
+**Special thanks to these talented minds who made the original project possible!**
 
 **Joe Molinelli (TheGoldDiamond9)** - Lead Developer  
 **COLSTER** - Developer  
